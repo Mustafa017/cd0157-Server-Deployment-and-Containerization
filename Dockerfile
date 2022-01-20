@@ -1,4 +1,4 @@
-FROM python:stretch
+FROM python:bullseye
 
 COPY . /app
 WORKDIR /app
